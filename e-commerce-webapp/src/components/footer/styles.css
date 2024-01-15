@@ -1,0 +1,18 @@
+.footer-container {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(63, 63, 63);
+  font-size: 12pt;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer {
+  color: white;
+  cursor: pointer;
+}
+
+.footer:hover {
+  color: rgb(215, 158, 255);
+}
